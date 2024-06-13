@@ -46,7 +46,7 @@
 		"del": "^6.0.0",
 		"eslint": "^7.32.0",
 		"event-stream": "^4.0.1",
-		"gulp": "^4.0.2",
+		"gulp": "^5.0.0",
 		"gulp-filter": "^5.1.0",
 		"gulp-sourcemaps": "^2.6.5",
 		"gulp-typescript": "^5.0.1",
